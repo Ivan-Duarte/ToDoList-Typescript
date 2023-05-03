@@ -1,6 +1,6 @@
 # Lista de Tarefas com Typescript
 
-> ✨ Bootstrapped com Create Snowpack App (CSA).
+✨ Bootstrapped com Create Snowpack App (CSA).
 
 > ❗❗❗ Descrição: Projeto de lista simples de tarefas usando Typescript e snowpack, minha intenção foi de conhecer melhor o framework snowpack e treinar funções e módulos do Typescript
 
