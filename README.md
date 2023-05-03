@@ -1,6 +1,6 @@
-# New Project
+# Lista de Tarefas com Typescript
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+> ✨ Bootstrapped com Create Snowpack App (CSA).
 
 ## Available Scripts
 
