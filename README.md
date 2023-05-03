@@ -24,7 +24,7 @@ Futuramente quero tentar implementar uma interface mais amigavel para o usuario 
 <div align="center">
 
 <h2>Tela da Lista<h2>
-  <img height="280mp" width="500mp" src="https://github.com/Ivan-Duarte/ToDoList-Typescript/blob/main/prints/listaDeTarefas.PNG">
+  <img height="280mp" width="600mp" src="https://github.com/Ivan-Duarte/ToDoList-Typescript/blob/main/prints/listaDeTarefas.PNG">
   <br>
  </div>
 
