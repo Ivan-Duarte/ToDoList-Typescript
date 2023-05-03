@@ -1,0 +1,22 @@
+{
+  "name": "todolist-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-Duarte/ToDoList-Typescript.git"
+  },
+  "author": "Ivan-Duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivan-Duarte/ToDoList-Typescript/issues"
+  },
+  "homepage": "https://github.com/Ivan-Duarte/ToDoList-Typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
